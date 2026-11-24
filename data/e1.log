@@ -1,0 +1,5 @@
+{'n': 16, 'm': 992, 'g': 1, 'w': 8, 'L': 8, 'depth': 0, 'mulgates': 0, 'trials': 60, 'success': 60, 'max_noise_over_qdiv4': 1.5051232829521588e-12, 'worstcase_bound_over_qdiv4': 4.138480726514904e-08}
+{'n': 16, 'm': 992, 'g': 2, 'w': 4, 'L': 8, 'depth': 1, 'mulgates': 1, 'trials': 60, 'success': 60, 'max_noise_over_qdiv4': 3.6441090596472936e-11, 'worstcase_bound_over_qdiv4': 2.0607042570692374e-05}
+{'n': 16, 'm': 992, 'g': 4, 'w': 4, 'L': 16, 'depth': 2, 'mulgates': 3, 'trials': 40, 'success': 40, 'max_noise_over_qdiv4': 2.5056343412425963e-08, 'worstcase_bound_over_qdiv4': 0.02060687184335443}
+{'n': 32, 'm': 1984, 'g': 2, 'w': 4, 'L': 8, 'depth': 1, 'mulgates': 1, 'trials': 30, 'success': 30, 'max_noise_over_qdiv4': 1.6569668206956045e-10, 'worstcase_bound_over_qdiv4': 0.0002322818340383566}
+{'n': 32, 'm': 1984, 'g': 4, 'w': 4, 'L': 16, 'depth': 2, 'mulgates': 3, 'trials': 20, 'success': 20, 'max_noise_over_qdiv4': 1.6358085081543544e-07, 'worstcase_bound_over_qdiv4': 0.462240119032864}

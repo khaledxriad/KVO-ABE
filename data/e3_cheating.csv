@@ -1,0 +1,8 @@
+attack,trials,accepted_correct,accepted_wrong,rejected
+honest,10000,10000,0,0
+random_vector,10000,0,0,10000
+all_zero,10000,0,0,10000
+replay_other_ct,10000,0,0,10000
+one_coord_random,10000,48,0,9952
+sparse_noise_2^40,10000,10000,0,0
+linear_shift_forgery,10000,0,0,10000
