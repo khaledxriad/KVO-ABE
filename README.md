@@ -62,7 +62,7 @@ over the five repetitions.
 
 ## Citation
 
-See `CITATION.cff`. The archived release is on Zenodo: [I will set it later].
+See `CITATION.cff`. The archived release is on Zenodo: [10.5281/zenodo.24490717](https://doi.org/10.5281/zenodo.24490717) (concept DOI, always resolves to the latest version; this release, v1.0.0, is 10.5281/zenodo.24490718).
 
 ## License
 
