@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the article and this archive."
-title: "KVO-ABE: reference prototype and measurement data"
+title: "KVO-ABE: Keyless Verifiable Outsourced Decryption for Lattice Attribute-Based Encryption"
 type: software
 authors:
   - family-names: Riad
@@ -8,5 +8,4 @@ authors:
     email: kriad@kfu.edu.sa
     affiliation: "Computer Science Department, College of Computer Sciences & Information Technology, King Faisal University, Al-Ahsa, 31982, Saudi Arabia"
 license: MIT
-repository-code: "[I will set it later]"
-doi: "[I will set it later]"
+repository-code: "https://github.com/khaledxriad/KVO-ABE"
